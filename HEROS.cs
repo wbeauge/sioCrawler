@@ -1,3 +1,3 @@
-class HEROS:Personnage{
+class HEROS:Personnage {
 	
 }
