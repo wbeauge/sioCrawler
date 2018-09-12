@@ -1,3 +1,4 @@
+
 class Personne{
 	public void frapper(Personnage personne, int force){
 		
@@ -5,4 +6,8 @@ class Personne{
 	public void Deplacer(Direction direction){
 
 	}
+
+class Lieu Regarder(Direction direction, int distance){
+	
+
 }
