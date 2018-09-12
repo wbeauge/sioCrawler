@@ -1,3 +1,3 @@
-class Arme{
+class Arme {
 	
 }
